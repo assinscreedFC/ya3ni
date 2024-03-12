@@ -17,6 +17,6 @@ export default defineConfig({
         assetFileNames: "[name][extname]",
       },
     },
-    base: "/ya3ni/",
   },
+  base: "/ya3ni/",
 });

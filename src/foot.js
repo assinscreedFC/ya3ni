@@ -1,5 +1,7 @@
-const da = document.write(new Date().getFullYear());
+import "./style/style.css";
 export default (function () {
+  const da = document.write(new Date().getFullYear());
+
   document.querySelector(".footer").innerHTML = `
 <p>
 Copyright ©
