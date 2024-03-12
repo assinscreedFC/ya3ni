@@ -1,4 +1,3 @@
-import "./style/style.css";
 export default (function () {
   const da = document.write(new Date().getFullYear());
 
