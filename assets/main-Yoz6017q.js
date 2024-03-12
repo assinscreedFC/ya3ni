@@ -1,1 +1,0 @@
-import{c as t}from"./foot-DUJsu0_V.js";import"https://kit.fontawesome.com/4c536a6bd5.js";const o=document.querySelector(".button");o.addEventListener("click",()=>{window.location.href="./menu.html"});t();
