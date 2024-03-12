@@ -13,5 +13,4 @@ export default defineConfig({
       },
     },
   },
-  base: "/ya3ni/",
 });
